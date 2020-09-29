@@ -1,2 +1,2 @@
-# wbhs-podcast
-wbhspodcast
+# The repo for boys with no personality podcast
+
