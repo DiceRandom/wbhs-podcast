@@ -18,8 +18,8 @@
 		<itunes:explicit>false</itunes:explicit>
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>episode one: simple talks</itunes:episode>
-			<title>1: </title>
+			<itunes:episode>1</itunes:episode>
+			<title>episode one: simple talks</title>
 			<description> Dice, Alfred and Austin, talk random stuff. </description>
 			<enclosure length="469" type="audio/mpeg" url="http://dicerandom.github.io/wbhs-podcast/episodes/1.mp3"/>
 			<guid>http://dicerandom.github.io/wbhs-podcast/episodes/1.mp3</guid>
