@@ -1,0 +1,48 @@
+html{
+    font-family:  'Source Sans Pro', sans-serif;
+    background-color: #F7C1FF;
+    color: #FDA1D4;
+    text-align: center;
+}
+
+.stream-text{
+    font-weight: bold;
+    font-size: 125%;
+}
+
+.podcast-title{
+    font-size: 300%;
+}
+
+hr.solid {
+    border-top: 3px solid #FDA1D4;
+    border-bottom: 0px;
+    width: 25%;
+    border-radius: 5px;
+}
+
+button.podcast-link{
+    width: 50pt;
+    height: 500%;
+    background-color: transparent;
+    border: none;
+    color: none;
+}
+
+button.podcast-link img{
+    width: 100%;
+    height: 100%;
+}
+
+button.podcast-link:hover{
+    cursor:pointer;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: transparent;
+    text-align: center;
+  }
