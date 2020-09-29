@@ -18,11 +18,11 @@
 		<itunes:explicit>false</itunes:explicit>
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>1</itunes:episode>
+			<itunes:episode>episode one: simple talks</itunes:episode>
 			<title>1: </title>
-			<description> Charlie and Tom talk about Tiny Capital: a micro-cap, tech private equity firm that starts, buys, and invests in wonderful internet businesses. </description>
-			<enclosure length="18552080" type="audio/mpeg" url="http://dicerandom.github.io/wbhs-podcast/episodes/1.mp3"/>
-			<guid>https://charliereese.ca/podcasts/ep_32.mp3</guid>
+			<description> Dice, Alfred and Austin, talk random stuff. </description>
+			<enclosure length="469" type="audio/mpeg" url="http://dicerandom.github.io/wbhs-podcast/episodes/1.mp3"/>
+			<guid>http://dicerandom.github.io/wbhs-podcast/episodes/1.mp3</guid>
 			<pubDate>Sun, 20 Sep 2020 20:15:05 -0400</pubDate>
 			<itunes:duration>772</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
